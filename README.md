@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnandGkp
+- 👋 Hi, I’m Anand gopalakrishnan
 - 👀 I’m interested in ...data analytics
 - 🌱 I’m currently learning ...analytics
 - 💞️ I’m looking to collaborate on ...
